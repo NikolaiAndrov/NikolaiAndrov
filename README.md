@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolai Androv</h1>
-- 🌱 I’m currently learning **C# .NET at Software University**
+- 🌱 I’m currently learning C# .NET at Software University
 
 - 📫 How to reach me **nikolaiandrov@gmail.com**
 
