@@ -4,7 +4,7 @@
 
 - 👨‍💻	I'm computer systems and technology engineer
 
-- 👨‍🎓	Currently studying: software engineering with C# .NET at Software University
+- 👨‍🎓	Currently studying software engineering with C# .NET at Software University
 
 - 🧑 Personal skills: creativity, analytical thinking, problem solving
 
