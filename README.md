@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Nikolai Androv 👋</h1>
 
-(img align="right" alt="Coding" width="400" src="")
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1680360448~exp=1680361048~hmac=4948161ae945c62eba21f92bef62ef742fe015083acbf88634d9bead9b45d86f">
 
 - 👨‍💻 I'm Computer systems and technology engineer
 
