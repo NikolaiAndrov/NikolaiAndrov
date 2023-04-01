@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Nikolai Androv 👋</h1>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="")
 
 - 👨‍💻 I'm Computer systems and technology engineer
 
