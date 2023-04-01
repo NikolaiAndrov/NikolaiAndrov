@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Nikolai Androv 👋</h1>
+
 - 👨‍💻 I'm Computer systems and technology engineer
 
 - ⚡ Currently learning: C# .NET at Software University
