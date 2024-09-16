@@ -23,6 +23,6 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Visual_Studio.png" alt="Visual-Studio" width="80" height="80"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual studio code.png" alt="visual studio code" width="80" height="80"/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="pycharm.png" alt="pycharm" width="80" height="80"/>
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" width="400"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false" width="400"/>
