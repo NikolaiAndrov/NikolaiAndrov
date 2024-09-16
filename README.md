@@ -12,8 +12,7 @@
 
 - 📫 Email: nikolaiandrov@gmail.com
 
-- ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
+- Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
 
 
 
