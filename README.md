@@ -20,6 +20,7 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src=".net.png" alt=".net" width="70" height="70"/>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="asp.net.jpg" alt="asp.net" width="70" height="70"/>
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="entity framework core.png" alt="entity framework core" width="70" height="70"/>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="sql server.png" alt="sql server" width="70" height="70"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov)](https://github.com/NikolaiAndrov/github-readme-stats)
