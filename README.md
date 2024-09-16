@@ -24,6 +24,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="Python.png" alt="Python" width="80" height="80"/>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="js.png" alt="js" width="80" height="80"/>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Visual_Studio.png" alt="Visual-Studio" width="80" height="80"/>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual studio code.png" alt="visual studio code " width="80" height="80"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov)](https://github.com/NikolaiAndrov/github-readme-stats)
