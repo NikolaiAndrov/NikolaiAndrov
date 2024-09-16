@@ -18,11 +18,12 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="asp.net.jpg" alt="asp.net" width="80" height="80"/>
 <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer"> <img src="entity framework core.png" alt="entity framework core" width="80" height="80"/>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="sql server.png" alt="sql server" width="80" height="80"/>
+<br/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="Python.png" alt="Python" width="80" height="80"/>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="js.png" alt="js" width="80" height="80"/>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="Visual_Studio.png" alt="Visual-Studio" width="80" height="80"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual studio code.png" alt="visual studio code" width="80" height="80"/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="pycharm.png" alt="pycharm" width="80" height="80"/>
-<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" width="400"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false" width="400"/>
