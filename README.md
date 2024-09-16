@@ -6,7 +6,7 @@
 
 - 🧑 Personal skills: creativity, analytical thinking, problem solving
 
-- 🌏 Languages spoken: Bulgarian, English, Italian
+- 🌏 Spoken languages: Bulgarian, English, Italian
 
 - 📫 Email: nikolaiandrov@gmail.com
 
