@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: nikolaiandrov@gmail.com
 
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="csharp.png" alt="csharp" width="80" height="80"/>
