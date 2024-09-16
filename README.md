@@ -24,6 +24,5 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual studio code.png" alt="visual studio code" width="80" height="80"/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="pycharm.png" alt="pycharm" width="80" height="80"/>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" width="450"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false" width="450"/>
