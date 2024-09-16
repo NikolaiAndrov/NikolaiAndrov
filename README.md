@@ -16,6 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="1__NVBTVdmjt3Qvq3CZOySXg.png" alt="csharp" width="70" height="70"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="csharp.png" alt="csharp" width="70" height="70"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov)](https://github.com/NikolaiAndrov/github-readme-stats)
