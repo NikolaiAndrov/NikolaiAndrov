@@ -2,6 +2,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1680360448~exp=1680361048~hmac=4948161ae945c62eba21f92bef62ef742fe015083acbf88634d9bead9b45d86f">
 
+## 🌐 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
+
 - 👨‍💻 I'm computer systems and technology engineer
 
 - 👨‍🎓 Recently	have completed a Software Engineering program specializing in C# .NET at Software University (SoftUni)
@@ -11,10 +13,6 @@
 - 🌏 Languages spoken: Bulgarian, English, Italian
 
 - 📫 Email: nikolaiandrov@gmail.com
-
-# 🌐 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
