@@ -27,7 +27,5 @@
 
 # 🌐 Let's Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov)](https://github.com/NikolaiAndrov/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false)<br/>
