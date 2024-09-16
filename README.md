@@ -10,6 +10,7 @@
 
 - 📫 Email: nikolaiandrov@gmail.com
 
+# 🌐 Let's Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="csharp.png" alt="csharp" width="80" height="80"/>
@@ -23,7 +24,6 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="visual studio code.png" alt="visual studio code" width="80" height="80"/>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="pycharm.png" alt="pycharm" width="80" height="80"/>
 
-# 🌐 Let's Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nikolai-androv-3a66b1141/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false)<br/>
