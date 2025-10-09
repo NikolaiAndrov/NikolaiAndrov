@@ -2,7 +2,7 @@
 
 - 👨‍💻 I'm computer systems and technology engineer
 
-- 👨‍🎓 Recently	have completed a Software Engineering program specializing in C# .NET at Software University (SoftUni)
+- 👨‍🎓 Successfully completed a Software Engineering program with a specialization in C# and .NET at Software University (SoftUni)
 
 - 🧑 Personal skills: creativity, analytical thinking, problem solving
 
