@@ -4,6 +4,8 @@
 
 - 👨‍🎓 Successfully completed a Software Engineering program with a specialization in C# and .NET at Software University (SoftUni)
 
+- 👨‍💻 Currently working as a software developer at KPMG
+
 - 🧑 Personal skills: creativity, analytical thinking, problem solving
 
 - 🌏 Spoken languages: Bulgarian, English, Italian
