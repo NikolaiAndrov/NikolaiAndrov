@@ -27,5 +27,4 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiAndrov&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400"/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaiAndrov&theme=radical&hide_border=false&count_private=true" width="400"/>
